@@ -1,0 +1,32 @@
+{
+  "name": "grunt-pofriend",
+  "version": "1.0.0",
+  "description": "Update your PO files from a POT automatically with Grunt",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NorthMcCormick/grunt-pofriend.git"
+  },
+  "keywords": [
+    "grunt",
+    "po",
+    "gettext",
+    "mo",
+    "compile",
+    "pot",
+    "translations",
+    "i18n"
+  ],
+  "author": "North McCormick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NorthMcCormick/grunt-pofriend/issues"
+  },
+  "homepage": "https://github.com/NorthMcCormick/grunt-pofriend#readme",
+  "dependencies": {
+    "sync-exec": "^0.6.2"
+  }
+}
